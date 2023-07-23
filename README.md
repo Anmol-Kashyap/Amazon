@@ -1,2 +1,7 @@
 # Amazon
-This is a repository for Amazon clone
+This is my Amazon Clone repository
+
+Technologis used: 
+1. HTML
+2. CSS
+3. Javascript
